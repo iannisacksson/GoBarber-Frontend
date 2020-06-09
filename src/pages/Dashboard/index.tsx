@@ -1,11 +1,5 @@
 import React from 'react';
 
-const Dashboard: React.FC = () => {
-  return (
-    <div>
-      <h1>Dashboard</h1>
-    </div>
-  );
-};
+const Dashboard: React.FC = () => <h1>Dashboard</h1>;
 
 export default Dashboard;
